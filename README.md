@@ -10,7 +10,7 @@ Sun, Liang, et al.
 - Yinbing Ge: yinge@noble.org
 - Zach Robinson: ztrobinson@noble.org
 # Contact Us
-If you have any questions, please contact Perdeep Mehta: pkmehta@noble.org
+If you have any questions, please contact Liang Sun: sunliang@udel.edu
 # Tutorial
 > **[Version 1.0](http://divenn.noble.org/v1/)**
 
